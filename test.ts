@@ -1,5 +1,1 @@
-function asd(a:number) {
-    console.log(a)
-}
-
-asd(2)
+const nome = 'juan'
